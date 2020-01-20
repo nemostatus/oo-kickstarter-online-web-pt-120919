@@ -5,6 +5,6 @@ class Backer
     @name = name 
     @backed_projects = []
   end 
-  def back_project(magic)
+  def back_project(project)
   end 
 end
